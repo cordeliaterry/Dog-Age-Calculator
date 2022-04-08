@@ -1,2 +1,2 @@
-# Dog-Age-Calculator
-Converting age in human years to dog years
+# DogAgeCalculator
+Converting age in human years to dog years using JavaScript
